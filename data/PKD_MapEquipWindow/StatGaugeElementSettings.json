@@ -1,0 +1,17 @@
+{
+    "colorsInComparision": {
+        "equalValue": "#CCC",
+        "lowerValue": "#bd442a",
+        "biggerValue": "#56bd2a"
+    },
+    "gaugeSettings": {
+        "visible": true,
+        "fill": "statCompareGauge",
+        "foreground": "",
+        "mask": "",
+        "backColor": "#000000",
+        "backOpacity": 255,
+        "vertical": false,
+        "rootImageFolder": "pMapEquipWindow"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "textPattern": "%1",
+    "textSettings": {
+        "visible": true,
+        "size": {
+            "w": 120,
+            "h": 20
+        },
+        "alignment": "left",
+        "font": {
+            "face": null,
+            "size": 18,
+            "italic": false
+        },
+        "margins": {
+            "x": 10,
+            "y": 10
+        },
+        "outline": {
+            "color": "",
+            "width": 2
+        },
+        "textColor": "#FFFFFF",
+        "shadow": {
+            "color": "#000",
+            "opacity": 200,
+            "margins": {
+                "x": 1,
+                "y": 1
+            }
+        }
+    }
+}

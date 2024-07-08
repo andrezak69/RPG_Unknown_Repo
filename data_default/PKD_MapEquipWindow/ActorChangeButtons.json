@@ -1,0 +1,20 @@
+{
+    "nextButton": {
+        "visible": true,
+        "position": { "x": 264, "y": 18 },
+        "images": {
+            "main": "nextActor_00",
+            "hover": "nextActor_01"
+        },
+        "keyboardSymbol": "pageup"
+    },
+    "prevButton": {
+        "visible": true,
+        "position": { "x": 14, "y": 18 },
+        "images": {
+            "main": "prevActor_00",
+            "hover": "prevActor_01"
+        },
+        "keyboardSymbol": "pagedown"
+    }
+}

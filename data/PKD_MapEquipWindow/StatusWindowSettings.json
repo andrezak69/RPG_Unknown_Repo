@@ -1,0 +1,10 @@
+{
+    "backgroundImage": "statusWindowBackground",
+    "position": {
+        "x": 0,
+        "y": 280
+    },
+    "isAlwaysVisible": false,
+    "statValueTextPositionRelativeIcon": { "x": 78, "y": 2},
+    "statGaugePositionRelativeIcon": { "x": 12, "y": 28}
+}

@@ -1,0 +1,13 @@
+{
+    "backgroundImage": "actorInfoWindowBackground",
+    "position": {
+        "x": 0,
+        "y": 420
+    },
+    "statusesStartPoint": { "x": 186, "y": 14 },
+    "statusesMargins": 4,
+    "statusesIconsSize": 26,
+    "statusesIconsPerLine": 4,
+    "statusesMaxIcons": 8,
+    "isAlwaysVisible": false
+}

@@ -1,0 +1,37 @@
+{
+    "colorsInComparision": {
+        "equalValue": "#CCC",
+        "lowerValue": "#bd442a",
+        "biggerValue": "#56bd2a"
+    },
+    "textSettings": {
+        "visible": true,
+        "size": {
+            "w": 60,
+            "h": 20
+        },
+        "alignment": "left",
+        "font": {
+            "face": null,
+            "size": 20,
+            "italic": false
+        },
+        "margins": {
+            "x": 0,
+            "y": 0
+        },
+        "outline": {
+            "color": "",
+            "width": 2
+        },
+        "textColor": "#FFFFFF",
+        "shadow": {
+            "color": "#000",
+            "opacity": 200,
+            "margins": {
+                "x": 1,
+                "y": 1
+            }
+        }
+    }
+}

@@ -1,0 +1,6 @@
+\Psz[Scroll, 60, 60, 90, 0]
+
+   \C[5]Magic Water \I[176]
+     \}\Chex[#46adbd]<Restore 100 MP>\C[0]
+\Chex[#7d6f2c]\{Ingridients:\C[0]
+\Isz[261, 24, 0, 6] \Isz[262, 24, 2, 6] \Isz[293, 24, 2, 6]
