@@ -1,0 +1,13 @@
+{
+    "backgroundImage": "equipmentListWindowBackground",
+    "size": {
+        "w": 240,
+        "h": 330
+    },
+    "position": {
+        "x": -248,
+        "y": 50
+    },
+    "isTransparent": true,
+    "isAlwaysVisible": false
+}

@@ -1,0 +1,4 @@
+\C[1]FROM TXT FILE\C[0]
+\}you can find this file
+in folder [data -> Hints]
+

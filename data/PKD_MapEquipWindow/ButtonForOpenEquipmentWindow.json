@@ -1,0 +1,12 @@
+{
+    "visible": true,
+    "position": { "x": "Graphics.width - 90", "y": "Graphics.height - 126" },
+    "images": {
+        "main": "button_00",
+        "hover": "button_01",
+        "disabled": "button_03"
+    },
+    "enabledIf": "SceneManager._scene.pkdIsCanInteractWithMEW()",
+    "hideWhenDisabled": true,
+    "action": "PKD_MEW.Switch()"
+}

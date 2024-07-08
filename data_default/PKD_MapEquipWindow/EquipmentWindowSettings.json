@@ -1,0 +1,16 @@
+{
+    "backgroundImage": "mainWindowBackground",
+    "size": {
+        "w": 310,
+        "h": 468
+    },
+    "position": {
+        "x": "(Graphics.width - 310) / 2",
+        "y": 20
+    },
+    "autoRefreshEveryFrames": 60,
+    "isCloseWhenMessage": true,
+    "isHaveCloseButton": true,
+    "isCloseByMenuKey": true,
+    "isCloseByRightMouseClick": true
+}
